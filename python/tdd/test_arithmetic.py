@@ -7,4 +7,6 @@ def test_smoke():
 # test the sum(a,b) function
 def test_sum():
 	assert sum(3,4) == 7
-		
+	assert sum(5.5,12) == 17.5
+	assert sum(-3,35) == 32
+	assert sum(1234,5678) == 6912
