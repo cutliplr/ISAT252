@@ -6,3 +6,8 @@ var myList = [
 			["Granola", 2], 
 			["Juice", 3]
 			];
+var dinner = ["Bread", "Potatoes"]; 
+dinner.sort();
+var dessert = ["Juice", "Bananas", "Granola"]
+dinner.sort();
+
